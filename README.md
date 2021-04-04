@@ -1,4 +1,4 @@
-# CS391
+
 
 This repository is dedicated to content for the synthesis writing course CS391.
 
